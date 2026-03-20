@@ -14,6 +14,14 @@ This project is suitable as an internship or portfolio assignment because it sho
 - periodic background updates
 - clean architecture layering
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/1.png" width="250"/>
+  <img src="screenshots/2.png" width="250"/>
+  <img src="screenshots/3.png" width="250"/>
+</p>
+
 ## Features
 
 - Fetches random quotes from a public API (`https://dummyjson.com/quotes/random`)
